@@ -6,9 +6,10 @@ The security devroom will be held on **Saturday 4th or Sunday 5th of February 20
 
 ## Our topic this year
 
-AKA "Security and Privacy in modern software"
-
-The topic of this years FOSDEM Security Devroom covers protocol and implementation vulnerabilities (and mitigation techniques) for widely used Internet protocols, and theoretical and practical cryptographic algorithms and techniques.
+The topic of this years FOSDEM Security Devroom covers protocol and
+implementation vulnerabilities (and mitigation techniques) for widely
+used Internet protocols and software, and theoretical and practical
+cryptographic algorithms and techniques.
 
 ## Submissions
 
