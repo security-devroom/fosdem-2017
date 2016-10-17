@@ -21,7 +21,7 @@ be finalized by 15 December 2016.
 
 Instructions:
 
-  * Go to https://penta.fosdem.org/submission/FOSDEM17
+  * Go to https://fosdem.org/submit
   * If you don't have an account from previous years, register
   * Create a new event with your title and abstract and some information about you
   * Be sure to set the event track to "Security devroom"
