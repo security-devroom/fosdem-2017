@@ -14,10 +14,10 @@ cryptographic algorithms and techniques.
 ## Submissions
 
 Submissions require a small abstract and a short speaker description
-and must be submitted via the Pentabarf system no later than XXX
+and must be submitted via the Pentabarf system no later than 1st of
 December 2016. Suggested duration for a timeslot to apply for is 25
 minutes (20 min presentation + 5 mins questions). The schedule shall
-be finalized by XXX December 2016.
+be finalized by 15 December 2016.
 
 Instructions:
 
