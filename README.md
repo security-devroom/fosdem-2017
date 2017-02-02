@@ -2,7 +2,7 @@
 
 [FOSDEM 2017](https://fosdem.org/2017/) has, once again, a security devroom, this time on the topic of _"theoretical and practical vulnerabilities and mitigation techniques for widely used protocols and software"_. 
 
-The security devroom will be held on **Saturday 4th or Sunday 5th of February 2017** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+The security devroom will be held on **Sunday 5th of February 2017** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
 
 ## Our topic this year
 
@@ -45,5 +45,3 @@ Schedule:
   * Martin Paljak (martin@martinpaljak.net)
   * Join [security-devroom@lists.fosdem.org](https://lists.fosdem.org/listinfo/security-devroom) mailing list for further communication
 
-### TODO
-  * List of things to do before/during the event [etherpad](https://piratenpad.de/p/IAaXIfU1H89lL)
